@@ -6,6 +6,6 @@ int main() {
     std::cout << "Enter your Favorite Number [1,100]: ";
 
     std::cin >> userNum;
-    std::cout << "Amazing, " << userNum << " is my favorite number too!" << std::endl;
+    std::cout << "Amazing, " << userNum << " is my favorite number too!\n";
     return 0;
 }
